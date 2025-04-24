@@ -20,8 +20,8 @@ The application consists of 5 containers:
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd [repo-name]
+gh repo clone FadyHabibKelliny/Voting-app-using-Docker-Compose
+cd Voting-app-using-Docker-Compose
 ```
 
 2. Start the application:
